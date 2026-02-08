@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Entrix-Technologies/entrix-branding/Main/logo-full-dark.png" width="380" alt="Entrix Technologies Logo"/>
+  <img src="https://raw.githubusercontent.com/Entrix-Technologies/entrix-branding/main/logo-full-dark.png" width="380" alt="Entrix Technologies Logo"/>
 </p>
 
 <h1 align="center">Entrix Technologies</h1>
