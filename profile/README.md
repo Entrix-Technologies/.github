@@ -31,11 +31,11 @@ Entrix is built by people who love technology and want to make it better — not
 ## 🌟 Our Core Values
 
 ### **1. Security Without Compromise**  
-Security is not a feature — it’s the foundation.  
+Security is not a feature — it's the foundation.  
 We take a careful, privacy-respecting approach to everything we design.
 
 ### **2. Simplicity Through Thoughtfulness**  
-Complex tools don’t need to feel complicated.  
+Complex tools don't need to feel complicated.  
 We aim for clarity, clean design, and a frictionless experience.
 
 ### **3. Respect for the User**  
@@ -83,7 +83,7 @@ We follow:
 - Responsible disclosure procedures  
 - Careful internal review of changes  
 
-Security isn’t something we add later — it’s something we design from the start.
+Security isn't something we add later — it's something we design from the start.
 
 ---
 
